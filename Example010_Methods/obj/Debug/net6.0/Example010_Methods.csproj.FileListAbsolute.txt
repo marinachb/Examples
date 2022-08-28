@@ -1,0 +1,15 @@
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.csproj.AssemblyReference.cache
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.AssemblyInfoInputs.cache
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.AssemblyInfo.cs
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.csproj.CoreCompileInputs.cache
+C:\Users\chern\Exercises\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.exe
+C:\Users\chern\Exercises\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.deps.json
+C:\Users\chern\Exercises\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.runtimeconfig.json
+C:\Users\chern\Exercises\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.dll
+C:\Users\chern\Exercises\Examples\Example010_Methods\bin\Debug\net6.0\Example010_Methods.pdb
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.dll
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\refint\Example010_Methods.dll
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.pdb
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\Example010_Methods.genruntimeconfig.cache
+C:\Users\chern\Exercises\Examples\Example010_Methods\obj\Debug\net6.0\ref\Example010_Methods.dll
