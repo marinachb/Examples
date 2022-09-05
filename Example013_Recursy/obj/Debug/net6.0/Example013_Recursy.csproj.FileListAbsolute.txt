@@ -1,0 +1,15 @@
+C:\Users\chern\Exercises\Examples\Example013_Recursy\bin\Debug\net6.0\Example013_Recursy.exe
+C:\Users\chern\Exercises\Examples\Example013_Recursy\bin\Debug\net6.0\Example013_Recursy.deps.json
+C:\Users\chern\Exercises\Examples\Example013_Recursy\bin\Debug\net6.0\Example013_Recursy.runtimeconfig.json
+C:\Users\chern\Exercises\Examples\Example013_Recursy\bin\Debug\net6.0\Example013_Recursy.dll
+C:\Users\chern\Exercises\Examples\Example013_Recursy\bin\Debug\net6.0\Example013_Recursy.pdb
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.csproj.AssemblyReference.cache
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.AssemblyInfoInputs.cache
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.AssemblyInfo.cs
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.csproj.CoreCompileInputs.cache
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.dll
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\refint\Example013_Recursy.dll
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.pdb
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\Example013_Recursy.genruntimeconfig.cache
+C:\Users\chern\Exercises\Examples\Example013_Recursy\obj\Debug\net6.0\ref\Example013_Recursy.dll
